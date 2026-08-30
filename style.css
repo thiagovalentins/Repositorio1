@@ -1,0 +1,28 @@
+h1{
+    text-decoration: underline;
+    text-align: center;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: rgb(2, 2, 77);
+    font-style: italic;
+}
+ul{
+    text-transform: uppercase;
+}
+
+.negrita{
+    font-weight: bold;
+}
+#caja{
+    background-color: bisque;
+    width: 800px;
+}
+.contenedorImagen{
+    
+    display: flex;
+    justify-content: center;
+   
+}
